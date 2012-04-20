@@ -1,1 +1,1 @@
-git commit -a this is another this is test
+00 git commit -a this is another this is test
