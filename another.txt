@@ -1,1 +1,1 @@
-00 git commit -a this is another this is test
+WANT CONFLICT SOLVED 00 git commit -a this is another this is test
