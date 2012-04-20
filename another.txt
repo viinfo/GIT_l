@@ -1,1 +1,1 @@
-this is another this is test
+git commit -a this is another this is test
