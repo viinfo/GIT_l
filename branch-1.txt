@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-
 confilict branch This is first branch commit
 
 test
-=======
-This is first branch commit
-
-
-TEST00
->>>>>>> your_branch
